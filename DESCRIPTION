@@ -1,0 +1,13 @@
+Package: smi
+Type: Package
+Title: Calculate standardized mass index
+Version: 0.1.0
+Author: Bill Peterman
+Maintainer: Bill Peterman <peterman.73@osu.edu>
+Description: This package contains a function to calculate the standardized mass index (SMI) from raw length/mass data.
+Depends:
+    R (>= 4.0)
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
